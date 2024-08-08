@@ -26,4 +26,7 @@ This script provides insights into the performance and interpretability of ensem
 - `xgboost`
 
 ## Usage
-Ensure the dataset is available at the specified file path and run the script to analyze and visualize model performance and feature importance. The dataset is available here: https://catalog.data.gov/dataset/cockle-green-macroalgae-field-survey-data-2014
+Ensure the dataset is available at the specified file path and run the script to analyze and visualize model performance and feature importance. The dataset is available here: https://catalog.data.gov/dataset/cockle-green-macroalgae-field-survey-data-2014. 
+
+## Copyright
+This dataset is associated with the following publication: Lewis, N., and T. DeWitt. Effect of Green Macroalgal Blooms on the Behavior, Growth, and Survival of Cockles (Clinocardium nuttallii) in Pacific NW Estuaries. MARINE ECOLOGY PROGRESS SERIES. Inter-Research, Luhe, GERMANY, 582: 105-120, (2017).
